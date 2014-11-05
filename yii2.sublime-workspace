@@ -1,0 +1,601 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"own",
+				"ownId"
+			],
+			[
+				"c_own",
+				"c_owner_id"
+			],
+			[
+				"orderI",
+				"orderInfo"
+			],
+			[
+				"or",
+				"orderId"
+			],
+			[
+				"_gc",
+				"_gcProbability"
+			],
+			[
+				"gener",
+				"generateRandCode"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"id",
+				"identityBack"
+			],
+			[
+				"car",
+				"carurl"
+			],
+			[
+				"getAc",
+				"getActionByStatus"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Windows/System32/drivers/etc/hosts",
+			"settings":
+			{
+				"buffer_size": 405481,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"composer",
+				"Composer: Install"
+			],
+			[
+				"com",
+				"Composer: Edit composer.json"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit Selected Hunk"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"gitgutter",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"git",
+				"Git: Diff Tool All"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"git config"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/xampp/htdocs/yii2",
+		"/E/xampp/htdocs/yii2/backend",
+		"/E/xampp/htdocs/yii2/backend/web",
+		"/E/xampp/htdocs/yii2/common"
+	],
+	"file_history":
+	[
+		"/E/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/E/xampp/htdocs/chesudi/cocar/protected/config/car.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/views/order/policy.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Builder/ConfigSchema.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/home/views/owner/car_added.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.RemoveNbsp.txt",
+		"/E/xampp/htdocs/chesudi/yii/framework/views/de/profile-callstack-firebug.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/views/de/profile-callstack.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/extensions/Validate.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/controllers/CarController.php",
+		"/E/xampp/htdocs/chesudi/cocar/themes/js/validateID.js",
+		"/E/xampp/htdocs/chesudi/yii/framework/db/CDbDataReader.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/db/CDbCommand.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/logging/CLogger.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/config/dbCacheConfig.php",
+		"/E/xampp/htdocs/chesudi/cocar/assets/ce47a806/jquery.history.js",
+		"/E/xampp/htdocs/chesudi/cocar/protected/runtime/error.log",
+		"/E/xampp/htdocs/chesudi/yii/framework/yiilite.php",
+		"/E/xampp/htdocs/yii2/backend/config/main-local.php",
+		"/E/xampp/htdocs/yii2/backend/config/bootstrap.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/views/layouts/column2.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/e/xampp/FileZillaFTP/FileZilla",
+		"/e/xampp/Server.xml",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/views/layouts/public.php",
+		"/E/xampp/htdocs/chesudi/cocar/themes/js/page.js",
+		"/E/xampp/htdocs/chesudi/cocar/themes/js/jquery/jquery.validationEngine.js",
+		"/E/xampp/htdocs/chesudi/cocar/sftp-config.json",
+		"/E/xampp/htdocs/chesudi/cocar/protected/controllers/TestController.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/extensions/ErrorCode.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/messages/zh_cn/messages.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/views/car/unCheckList.php",
+		"/E/xampp/htdocs/chesudi/cocar/themes/js/jquery/jquery.validationEngine-zh_CN.js",
+		"/E/xampp/htdocs/test/valid/js/languages/jquery.validationEngine-zh_CN.js",
+		"/E/xampp/htdocs/test/valid/js/jquery.validationEngine.js",
+		"/E/xampp/htdocs/chesudi/cocar/themes/js/datetimepicker.min.js",
+		"/C/Users/zd/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/zd/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/E/xampp/htdocs/chesudi/yii/framework/views/error.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/caching/CFileCache.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/extensions/Util.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/components/QrcodeFile.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/messages/api/api_cn.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/components/Controller.php",
+		"/E/xampp/htdocs/chesudi/cocar/assets/c950d165/gridview/jquery.yiigridview.js",
+		"/E/xampp/htdocs/chesudi/cocar/protected/components/ApiResponse.php",
+		"/E/xampp/htdocs/chesudi/yii/requirements/messages/.htaccess",
+		"/E/xampp/htdocs/chesudi/yii/framework/vendors/htmlpurifier/standalone/HTMLPurifier/Language/messages/en.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/messages/zh_cn/admin.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/messages/ar/zii.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/messages/zh_cn/homemessage.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/config/main.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/i18n/data/mfe_mu.php",
+		"/E/xampp/htdocs/chesudi/cocar/themes/fonts/zenicon.svg",
+		"/E/xampp/htdocs/chesudi/yii/framework/i18n/data/zh_hans.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/i18n/data/zh.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/i18n/data/zh_hans_cn.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/runtime/cache/12/31/1231412412312.bin",
+		"/E/xampp/htdocs/chesudi/yii/framework/logging/CLogFilter.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/models/UserPhoto.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/models/User.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/views/admin/edit.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/views/car/userIdentify.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/config/admin.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/components/ApiRequest.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/i18n/data/ti_er.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/models/Template.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/models/Order.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/config/order.php",
+		"/E/xampp/htdocs/chesudi/yii/README",
+		"/E/xampp/htdocs/chesudi/cocar/protected/controllers/UnionpayController.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/views/car/list.php",
+		"/D/work/base.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/runtime/cache/1/1.bin",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/views/car/waitingInstallList.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/views/car/installThings.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/components/AbstractAR.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/config/config.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/config/chesudi/imageFile.cfg.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/extensions/ImageFile.php",
+		"/E/xampp/htdocs/chesudi/cocar/index.php",
+		"/E/xampp/htdocs/chesudi/cocar/themes/js/common.js",
+		"/D/company/server.txt",
+		"/E/xampp/htdocs/chesudi/yii/demos/blog/protected/tests/unit/UserTest.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/i18n/data/mg.php",
+		"/D/company/AMS_HTML_original/changePWD.html",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/components/MyPager.php",
+		"/D/company/chesudi-1030/cocar/protected/modules/admin/components/MyPager.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/i18n/data/my.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/messages/zh_tw/yii.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/views/user/detail.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/views/user/userIdentify.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/controllers/AdminController.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/views/admin/list.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/views/admin/left.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/AdminModule.php",
+		"/E/xampp/htdocs/chesudi/cocar/themes/css/artDialog.css",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/views/car/detail.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/extensions/DahantcSMS.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/controllers/CarController.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/models/CarControllerLog.php",
+		"/E/xampp/htdocs/chesudi/yii/demos/phonebook/protected/components/UserIdentity.php",
+		"/E/xampp/htdocs/chesudi/yii/demos/blog/protected/components/UserIdentity.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/home/components/UserIdentity.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/components/UserIdentity.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/gii/components/UserIdentity.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/components/UserIdentity.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/controllers/FormController.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/controllers/UserController.php",
+		"/D/work/addbase.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Filter.Custom.txt",
+		"/E/xampp/htdocs/chesudi/cocar/protected/models/SmsChannel.php",
+		"/E/xampp/htdocs/chesudi/cocar/themes/css/common.css",
+		"/E/xampp/htdocs/chesudi/yii/framework/i18n/data/ig_ng.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/models/Sms.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/web/CWebApplication.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/cli/commands/WebAppCommand.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/i18n/data/wae.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/controllers/GpsController.php",
+		"/E/xampp/php/logs/php_error_log",
+		"/C/Users/zd/AppData/Roaming/Sublime Text 3/Packages/Composer/composer-sublime.sublime-settings",
+		"/D/work/CustomerController.php",
+		"/E/xampp/htdocs/chesudi/cocar/protected/modules/admin/views/rule/list - 副本.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.AllowedCommentsRegexp.txt",
+		"/E/xampp/htdocs/chesudi/cocar/protected/config/user.php",
+		"/E/xampp/htdocs/chesudi/yii/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.SafeIframeRegexp.txt",
+		"/E/xampp/htdocs/chesudi/yii/UPGRADE",
+		"/E/xampp/htdocs/chesudi/yii/framework/web/CHttpSession.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"E:\\xampp\\htdocs\\chesudi\\cocar"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var_dump",
+			"checkPhoneFormat",
+			"c_login_name",
+			"query",
+			"sql",
+			"##",
+			"localhost",
+			"formID",
+			"_saveOptions",
+			"validationEngineLanguage",
+			"language",
+			"only",
+			"commonAjax",
+			"setGCProbability",
+			"gps",
+			"GPS为空",
+			"/.*validate.*/",
+			"/*validate*/",
+			"/*validate/",
+			"*validate",
+			">>>HERE>>>*validate",
+			"*validate",
+			"\"validate\"",
+			"\"*validate\"",
+			".validate",
+			"password",
+			"carDetail->U",
+			"$user",
+			"$carDetail->User",
+			"现为可选项",
+			"swf",
+			"支持JPG、JPEG、GIF、PNG格式的图片文件\n文件不能大于2MB",
+			"null",
+			"flashFileUpload",
+			"===",
+			"flashFileUpload",
+			"identifyPhoto",
+			"swfupload",
+			"swfload",
+			"');?>",
+			"<?php echo Yii::app()->createUrl('",
+			"I",
+			" \"",
+			"')?>",
+			");?>",
+			"<?php echo $this->createUrl('",
+			"<?php echo $this->createUrl(",
+			"',",
+			" '",
+			"'",
+			"return \"unCheckList\";",
+			");\n",
+			"customer",
+			"}\n",
+			"sessionid",
+			"aa",
+			"home"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Windows/System32/drivers/etc/hosts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 405481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1969,
+								1969
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 627.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"project": "yii2.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"carcontr",
+				"cocar\\protected\\controllers\\CarController.php"
+			],
+			[
+				"order",
+				"cocar\\protected\\controllers\\OrderController.php"
+			],
+			[
+				"valid",
+				"cocar\\protected\\extensions\\Validate.php"
+			],
+			[
+				"cdbdatareader",
+				"yii\\framework\\db\\CDbDataReader.php"
+			],
+			[
+				"errorcode",
+				"cocar\\protected\\extensions\\ErrorCode.php"
+			],
+			[
+				"cfileca",
+				"yii\\framework\\caching\\CFileCache.php"
+			],
+			[
+				"qrco",
+				"cocar\\protected\\components\\QrcodeFile.php"
+			],
+			[
+				"util",
+				"cocar\\protected\\extensions\\Util.php"
+			],
+			[
+				"testco",
+				"cocar\\protected\\controllers\\TestController.php"
+			],
+			[
+				"cfilecache.php",
+				"yii\\framework\\caching\\CFileCache.php"
+			],
+			[
+				"img.f",
+				"cocar\\protected\\config\\chesudi\\imageFile.cfg.php"
+			],
+			[
+				"config.php",
+				"cocar\\protected\\config\\config.php"
+			],
+			[
+				"validateid.js",
+				"cocar\\themes\\js\\validateID.js"
+			],
+			[
+				"installthings",
+				"cocar\\protected\\modules\\admin\\views\\car\\installThings.php"
+			],
+			[
+				"img.php",
+				"cocar\\protected\\config\\chesudi\\imageFile.cfg.php"
+			],
+			[
+				"mypage",
+				"cocar\\protected\\modules\\admin\\components\\MyPager.php"
+			],
+			[
+				"admin/list",
+				"cocar\\protected\\modules\\admin\\views\\admin\\list.php"
+			],
+			[
+				"userid",
+				"cocar\\protected\\modules\\admin\\views\\user\\userIdentify.php"
+			],
+			[
+				"detail",
+				"cocar\\protected\\modules\\admin\\views\\user\\detail.php"
+			],
+			[
+				"detail.php",
+				"cocar\\protected\\modules\\admin\\views\\car\\detail.php"
+			],
+			[
+				"carcontroller",
+				"cocar\\protected\\controllers\\CarController.php"
+			],
+			[
+				"usercontroller",
+				"cocar\\protected\\controllers\\UserController.php"
+			],
+			[
+				"unchecklist",
+				"cocar\\protected\\modules\\admin\\views\\car\\unCheckList.php"
+			],
+			[
+				"uncheck",
+				"cocar\\protected\\modules\\admin\\views\\car\\unCheckList.php"
+			],
+			[
+				"car.php",
+				"cocar\\protected\\config\\car.php"
+			],
+			[
+				"common.css",
+				"cocar\\themes\\css\\common.css"
+			],
+			[
+				"wait",
+				"cocar\\protected\\modules\\admin\\views\\car\\waitingInstallList.php"
+			],
+			[
+				"session",
+				"yii\\framework\\web\\CHttpSession.php"
+			],
+			[
+				"common.js",
+				"cocar\\themes\\js\\common.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
